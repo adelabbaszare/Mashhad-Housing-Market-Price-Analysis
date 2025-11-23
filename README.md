@@ -1,7 +1,7 @@
 # 🏠 Mashhad Housing Market Price Analysis
 ![Mashhad Image](https://upload.wikimedia.org/wikipedia/commons/3/3f/Mashhad_City_in_the_morning.jpg)
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Top Language](https://img.shields.io/github/languages/top/adelabbaszare/Mashhad-Housing-Market-Price-Analysis)
+![Languages Count](https://img.shields.io/github/languages/count/adelabbaszare/Mashhad-Housing-Market-Price-Analysis)
 ![Libraries](https://img.shields.io/badge/Pandas-Seaborn-green.svg)
 
 ## 📌 Project Overview
@@ -63,7 +63,7 @@ The notebook covers the following specific analyses:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/mashhad-housing-analysis.git](https://github.com/your-username/mashhad-housing-analysis.git)
+    git clone https://github.com/adelabbaszare/Mashhad-Housing-Market-Price-Analysis.git
     ```
 2.  **Install dependencies:**
     ```bash
@@ -86,7 +86,7 @@ The notebook covers the following specific analyses:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/mashhad-housing-analysis/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/adelabbaszare/Mashhad-Housing-Market-Price-Analysis/issues).
 
 ## 📜 License
 
